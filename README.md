@@ -2,6 +2,8 @@
 
 This project generates an interactive heatmap and marker map of global datacenters. It automatically fetches the latest data and produces a web-ready HTML visualization.
 
+**Live Site:** [https://loorisr.github.io/datacenter-heatmap/](https://loorisr.github.io/datacenter-heatmap/)
+
 ## Data Source
 
 Datacenter information is sourced from the [Global-Data-Center-Map](https://github.com/Ringmast4r/Global-Data-Center-Map) repository.
